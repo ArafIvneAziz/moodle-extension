@@ -1,5 +1,5 @@
 ﻿-----------------------------------------
-moodle-block_hrvojeblock
+moodle572
 -----------------------------------------
 * THIS IS TESTING REPOSITORY
 
